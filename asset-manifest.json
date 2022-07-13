@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/steam-home/static/css/main.b6b2c630.css",
-    "main.js": "/steam-home/static/js/main.c0d51821.js",
+    "main.css": "/steam-home/static/css/main.6e65b336.css",
+    "main.js": "/steam-home/static/js/main.2ea19578.js",
     "static/media/bannerhome.png": "/steam-home/static/media/bannerhome.611515e15d9acf67525c.png",
     "static/media/fotof.jpg": "/steam-home/static/media/fotof.6d2a7b839fb133c846d9.jpg",
     "static/media/bannermasinfo.png": "/steam-home/static/media/bannermasinfo.0614c2f109e7ed5a5f63.png",
@@ -16,11 +16,11 @@
     "static/media/logo.png": "/steam-home/static/media/logo.3045e72ac040f7d52057.png",
     "static/media/lema.png": "/steam-home/static/media/lema.301f886c6a25bfcb2c14.png",
     "index.html": "/steam-home/index.html",
-    "main.b6b2c630.css.map": "/steam-home/static/css/main.b6b2c630.css.map",
-    "main.c0d51821.js.map": "/steam-home/static/js/main.c0d51821.js.map"
+    "main.6e65b336.css.map": "/steam-home/static/css/main.6e65b336.css.map",
+    "main.2ea19578.js.map": "/steam-home/static/js/main.2ea19578.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b2c630.css",
-    "static/js/main.c0d51821.js"
+    "static/css/main.6e65b336.css",
+    "static/js/main.2ea19578.js"
   ]
 }
