@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Home-STEAM/static/css/main.51c79c77.css",
+    "main.js": "/Home-STEAM/static/js/main.0585cce1.js",
+    "static/media/bannerhome.png": "/Home-STEAM/static/media/bannerhome.611515e15d9acf67525c.png",
+    "static/media/fotof.jpg": "/Home-STEAM/static/media/fotof.6d2a7b839fb133c846d9.jpg",
+    "static/media/bannermasinfo.png": "/Home-STEAM/static/media/bannermasinfo.0614c2f109e7ed5a5f63.png",
+    "static/media/bannersteam.png": "/Home-STEAM/static/media/bannersteam.92d711d0e76ef08fe722.png",
+    "static/media/bannerhazparte.png": "/Home-STEAM/static/media/bannerhazparte.b4ee50d627a06ddc7e7d.png",
+    "static/media/galery4.jpeg": "/Home-STEAM/static/media/galery4.54ccb86beb07308a526a.jpeg",
+    "static/media/galery2.jpeg": "/Home-STEAM/static/media/galery2.a9b003ed1bc5c5d34b6d.jpeg",
+    "static/media/galery6.jpeg": "/Home-STEAM/static/media/galery6.5e55009e3eaa17e7ab8c.jpeg",
+    "static/media/galery5.jpeg": "/Home-STEAM/static/media/galery5.f06d887377654bf1cd4e.jpeg",
+    "static/media/galery3.jpeg": "/Home-STEAM/static/media/galery3.79cd51ca9828c4ccde41.jpeg",
+    "static/media/galery1.jpeg": "/Home-STEAM/static/media/galery1.0c8979fe62a17694ba04.jpeg",
+    "static/media/logo.png": "/Home-STEAM/static/media/logo.3045e72ac040f7d52057.png",
+    "static/media/lema.png": "/Home-STEAM/static/media/lema.301f886c6a25bfcb2c14.png",
+    "index.html": "/Home-STEAM/index.html",
+    "main.51c79c77.css.map": "/Home-STEAM/static/css/main.51c79c77.css.map",
+    "main.0585cce1.js.map": "/Home-STEAM/static/js/main.0585cce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c79c77.css",
+    "static/js/main.0585cce1.js"
+  ]
+}
