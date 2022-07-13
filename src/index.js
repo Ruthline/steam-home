@@ -11,8 +11,8 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
   <Routes>
-    <Route path='/Home-STEAM/' element={<Home/>}></Route>
-    <Route path='/home' element={<Navigate replace to={"/Home-STEAM/"}/>}></Route>
+    <Route path='/steam-home/' element={<Home/>}></Route>
+    <Route path='/home' element={<Navigate replace to={"/steam-home/"}/>}></Route>
     <Route path='/haz-parte' element={<Hazparte/>}></Route>
     <Route path='/ferias' element={<Ferias/>}></Route>
     <Route path='/steam' element={<Steam/>}></Route>
