@@ -34,7 +34,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Exposición de Robótica</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p></div>
                 <a href='#image2' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
@@ -49,7 +49,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Talleres artísticos</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p></div>
                 <a href='#image3' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
@@ -64,7 +64,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Reconociendo el espacio</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p></div>
                 <a href='#image4' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
@@ -79,7 +79,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Recorrido observatorio</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p></div>
                 <a href='#image5' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
@@ -94,7 +94,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Inspiraciones artísticas</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p></div>
                 <a href='#image6' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
@@ -109,7 +109,7 @@ function GaleryHazParte(props){
                 
                 <p>
                 <h3>Estructuras en pasta</h3><br></br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p></div>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p></div>
                 <a href='#image1' className='next'><FontAwesomeIcon icon={faArrowRight}/></a>
                 <a href='#' className='close'>
                 <FontAwesomeIcon icon={faXmark}/>
